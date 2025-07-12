@@ -3,21 +3,21 @@
   font-family: "DM Sans";
   font-style: normal;
   font-weight: 400;
-  src: local(""), url("https://interactiveo.github.io/elpescador-static/wp-content/plugins/disable-comments/assets/fonts/dm-sans-v11-latin-regular.woff2") format("woff2"), url("https://interactiveo.github.io/elpescador-static/wp-content/plugins/disable-comments/assets/fonts/dm-sans-v11-latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: local(""), url("./../fonts/dm-sans-v11-latin-regular.woff2") format("woff2"), url("./../fonts/dm-sans-v11-latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* dm-sans-500 - latin */
 @font-face {
   font-family: "DM Sans";
   font-style: normal;
   font-weight: 500;
-  src: local(""), url("https://interactiveo.github.io/elpescador-static/wp-content/plugins/disable-comments/assets/fonts/dm-sans-v11-latin-500.woff2") format("woff2"), url("https://interactiveo.github.io/elpescador-static/wp-content/plugins/disable-comments/assets/fonts/dm-sans-v11-latin-500.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: local(""), url("./../fonts/dm-sans-v11-latin-500.woff2") format("woff2"), url("./../fonts/dm-sans-v11-latin-500.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 /* dm-sans-700 - latin */
 @font-face {
   font-family: "DM Sans";
   font-style: normal;
   font-weight: 700;
-  src: local(""), url("https://interactiveo.github.io/elpescador-static/wp-content/plugins/disable-comments/assets/fonts/dm-sans-v11-latin-700.woff2") format("woff2"), url("https://interactiveo.github.io/elpescador-static/wp-content/plugins/disable-comments/assets/fonts/dm-sans-v11-latin-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: local(""), url("./../fonts/dm-sans-v11-latin-700.woff2") format("woff2"), url("./../fonts/dm-sans-v11-latin-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 :root {
   --base-gutter: 30px;
@@ -2444,7 +2444,7 @@ button.button__instagram.hover__highlight:hover .icon {
   position: absolute;
   top: -4px;
   left: 1px;
-  content: url(https://interactiveo.github.io/elpescador-static/wp-content/plugins/disable-comments/assets/img/check.png);
+  content: url(./../img/check.png);
   opacity: 0;
   transition: all 0.3s ease;
 }
@@ -3115,7 +3115,7 @@ button.button__instagram.hover__highlight:hover .icon {
   height: 13px;
   width: 13px;
   border: 0;
-  content: url(https://interactiveo.github.io/elpescador-static/wp-content/plugins/disable-comments/assets/img/check.png);
+  content: url(./../img/check.png);
   opacity: 0;
   transition: all 0.3s ease;
 }
@@ -3218,7 +3218,7 @@ button.button__instagram.hover__highlight:hover .icon {
   height: 11px;
   width: 11px;
   border: 0;
-  content: url(https://interactiveo.github.io/elpescador-static/wp-content/plugins/disable-comments/assets/img/check.png);
+  content: url(./../img/check.png);
   opacity: 0;
   transition: all 0.3s ease;
 }

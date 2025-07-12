@@ -72,7 +72,7 @@ table.settings-field-map-table tbody td {
 
 .settings-field-map-table .custom-key-reset,
 .settings-field-map-table .custom-value-reset {
-	background: url( 'https://interactiveo.github.io/elpescador-static/wp-content/plugins/gravityforms/includes/addon/images/field-map-reset.png' ) no-repeat center #ddd;
+	background: url( './../images/field-map-reset.png' ) no-repeat center #ddd;
 	background-size: 10px 10px;
 	cursor: pointer;
 	display: inline-block;
@@ -95,7 +95,7 @@ table.settings-field-map-table tbody td {
 
 .settings-field-map-table .add-item span,
 .settings-field-map-table .remove-item span {
-	background: url( 'https://interactiveo.github.io/elpescador-static/wp-content/plugins/gravityforms/includes/addon/images/field-map-buttons.png' ) no-repeat center top transparent;
+	background: url( './../images/field-map-buttons.png' ) no-repeat center top transparent;
 	background-size: 20px 100px;
 	cursor: pointer;
 	display: inline-block;
@@ -137,7 +137,7 @@ table.settings-field-map-table tbody td {
 /* ---------------- Select Custom ---------------- */
 
 .gaddon-setting-select-custom-container .select-custom-reset {
-	background: url( https://interactiveo.github.io/elpescador-static/wp-content/plugins/gravityforms/images/xit.gif) no-repeat scroll 0 0 transparent;
+	background: url( ./../../../images/xit.gif) no-repeat scroll 0 0 transparent;
 	cursor:pointer;
 	display:none;
 	position:absolute;

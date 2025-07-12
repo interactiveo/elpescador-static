@@ -180,7 +180,7 @@ h2.nav-tab-wrapper {
 }
 
 .awsm-icon {
-    background: url(https://interactiveo.github.io/elpescador-static/wp-content/plugins/embed-any-document/images/icon-sprite.png) no-repeat;
+    background: url(./../images/icon-sprite.png) no-repeat;
     display: block;
     width: 21px;
     height: 17px;
@@ -328,11 +328,11 @@ div.awsm-updated p {
 }
 
 .supportedlist li span.ead-check {
-    background: url(https://interactiveo.github.io/elpescador-static/wp-content/plugins/embed-any-document/images/icon-yes.png) no-repeat;
+    background: url(./../images/icon-yes.png) no-repeat;
 }
 
 .supportedlist li span.ead-close {
-    background: url(https://interactiveo.github.io/elpescador-static/wp-content/plugins/embed-any-document/images/icon-no.png) no-repeat;
+    background: url(./../images/icon-no.png) no-repeat;
 }
 
 .col-left {

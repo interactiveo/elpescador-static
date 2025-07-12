@@ -480,7 +480,7 @@
 }
 .mwai-timeless-theme .mwai-footer .mwai-tools .mwai-file-upload-icon {
   display: inline-block;
-  background: url("https://interactiveo.github.io/elpescador-static/wp-content/plugins/ai-engine/themes/icons/white-icons.svg");
+  background: url("./icons/white-icons.svg");
   background-size: 500%;
   background-position: 0px -96px;
   width: 32px;

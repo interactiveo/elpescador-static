@@ -87,7 +87,7 @@ body.udp-modal-is-opened {
 	content: '';
 	-webkit-animation: spin 1s linear infinite;
 	animation: spin 1s linear infinite;
-	background: url('https://interactiveo.github.io/elpescador-static/wp-content/plugins/updraftplus/includes/checkout-embed/assets/loader.svg') center center;
+	background: url('./loader.svg') center center;
 	background-size: cover;
 	line-height: 1;
 	text-align: center;

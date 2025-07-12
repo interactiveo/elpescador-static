@@ -77,7 +77,7 @@ div[data-type="embed-any-document/document"] .components-placeholder__fieldset .
 }
 
 div[data-type="embed-any-document/document"] .components-placeholder__fieldset .components-button.ead-button-dropbox::before {
-	background-image: url("https://interactiveo.github.io/elpescador-static/wp-content/plugins/embed-any-document/images/icon-dropbox.svg");
+	background-image: url("./../../images/icon-dropbox.svg");
 }
 
 div[data-type="embed-any-document/document"] .components-placeholder__fieldset .components-button.ead-button-dropbox::after {
@@ -85,7 +85,7 @@ div[data-type="embed-any-document/document"] .components-placeholder__fieldset .
 }
 
 div[data-type="embed-any-document/document"] .components-placeholder__fieldset .components-button.ead-button-drive::before {
-	background-image: url("https://interactiveo.github.io/elpescador-static/wp-content/plugins/embed-any-document/images/icon-drive.svg");
+	background-image: url("./../../images/icon-drive.svg");
 }
 
 div[data-type="embed-any-document/document"] .components-placeholder__fieldset .components-button.ead-button-drive::after {
@@ -93,7 +93,7 @@ div[data-type="embed-any-document/document"] .components-placeholder__fieldset .
 }
 
 div[data-type="embed-any-document/document"] .components-placeholder__fieldset .components-button.ead-button-box::before {
-	background-image: url("https://interactiveo.github.io/elpescador-static/wp-content/plugins/embed-any-document/images/icon-box.svg");
+	background-image: url("./../../images/icon-box.svg");
 }
 
 div[data-type="embed-any-document/document"] .components-placeholder__fieldset .components-button.ead-button-box::after {
@@ -101,7 +101,7 @@ div[data-type="embed-any-document/document"] .components-placeholder__fieldset .
 }
 
 div[data-type="embed-any-document/document"] .components-placeholder__fieldset .components-button.ead-button-onedrive::before {
-	background-image: url("https://interactiveo.github.io/elpescador-static/wp-content/plugins/embed-any-document/images/icon-onedrive.svg");
+	background-image: url("./../../images/icon-onedrive.svg");
 }
 
 div[data-type="embed-any-document/document"] .components-placeholder__fieldset .components-button.ead-button-onedrive::after {
@@ -113,7 +113,7 @@ div[data-type="embed-any-document/document"] .components-placeholder__fieldset .
 }
 
 div[data-type="embed-any-document/document"] .components-placeholder__fieldset .components-form-file-upload .components-button::before {
-	background-image: url("https://interactiveo.github.io/elpescador-static/wp-content/plugins/embed-any-document/images/iconmonstr-upload-17.svg");
+	background-image: url("./../../images/iconmonstr-upload-17.svg");
 }
 
 div[data-type="embed-any-document/document"] .components-placeholder__fieldset .components-form-file-upload .components-button::after {
@@ -121,7 +121,7 @@ div[data-type="embed-any-document/document"] .components-placeholder__fieldset .
 }
 
 div[data-type="embed-any-document/document"] .components-placeholder__fieldset .components-form-file-upload + .components-button::before {
-	background-image: url("https://interactiveo.github.io/elpescador-static/wp-content/plugins/embed-any-document/images/admin-media.svg");
+	background-image: url("./../../images/admin-media.svg");
 	background-size: 36px;
 }
 
@@ -134,7 +134,7 @@ div[data-type="embed-any-document/document"] .components-placeholder__fieldset .
 }
 
 div[data-type="embed-any-document/document"] .components-placeholder__fieldset .block-editor-media-placeholder__url-input-container .components-button::before {
-	background-image: url("https://interactiveo.github.io/elpescador-static/wp-content/plugins/embed-any-document/images/iconmonstr-link-1.svg");
+	background-image: url("./../../images/iconmonstr-link-1.svg");
 	    background-size: 28px;
 }
 

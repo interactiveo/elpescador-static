@@ -2342,7 +2342,7 @@ body.exiting .merlin__content--content .merlin__content__footer {
     color: rgba(0, 0, 0, 0.3);
 }
 .saswp_branding{
-    background-image: url(https://interactiveo.github.io/elpescador-static/wp-content/plugins/schema-and-structured-data-for-wp/admin_section/images/sd-logo-white.png);
+    background-image: url(./../images/sd-logo-white.png);
     padding: 40px;
     background-size: 80px;
     background-repeat: no-repeat;

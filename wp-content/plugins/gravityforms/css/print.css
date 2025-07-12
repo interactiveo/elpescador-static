@@ -38,7 +38,7 @@ AND ANY CHANGES MADE HERE WILL BE OVERWRITTEN.
 	  	display: block !important
   	}
   	div#print_preview_hdr div:first-child {
-	  	/*background-image: url(https://interactiveo.github.io/elpescador-static/wp-content/plugins/gravityforms/images/wp-logo.png);*/
+	  	/*background-image: url(./../images/wp-logo.png);*/
 	  	background-position: 16px center;
 	  	background-repeat: no-repeat;
 	  	padding-left: 36px
@@ -329,7 +329,7 @@ AND ANY CHANGES MADE HERE WILL BE OVERWRITTEN.
 	}
 	table.entry-products td ul.product_options {}
 	table.entry-products td ul.product_options li {
-		background-image: url(https://interactiveo.github.io/elpescador-static/wp-content/plugins/gravityforms/images/prodlist.png);
+		background-image: url(./../images/prodlist.png);
 		background-repeat: no-repeat;
 		background-position: left top;
 		overflow: visible;
@@ -338,7 +338,7 @@ AND ANY CHANGES MADE HERE WILL BE OVERWRITTEN.
 		list-style-type: none
 	}
 	table.entry-products td ul.product_options li.lastitem {
-		background-image: url(https://interactiveo.github.io/elpescador-static/wp-content/plugins/gravityforms/images/prodlist_last.png)
+		background-image: url(./../images/prodlist_last.png)
 	}
 
 	/* list table styles  ------------------------------------------------------------------------- */
