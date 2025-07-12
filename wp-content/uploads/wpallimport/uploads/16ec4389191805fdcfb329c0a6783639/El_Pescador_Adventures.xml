@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<name><![CDATA[ATM Cave]]></name>
+		<slug><![CDATA[atm-cave]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b367345df2e501]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:50 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:48:31 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[]]></order>
+		<summary><![CDATA[Experience the cave of the stone sepulcher (ATM Cave), a subterranean cathedral in the heart of Cayo that features rare artifacts and mineralized human remains that date back hundreds of years. ‍]]></summary>
+		<body><![CDATA[<p id="">(AIR/LAND)</p><p id="">Experience the cave of the stone sepulcher, a subterranean cathedral in the heart of Cayo that features rare artifacts and mineralized human remains that date back hundreds of years. Trip includes round-trip airfare on Tropic Air, fully guided tour by expert tour operator PACZ, land transfer to and from the cave, entrance fees, and lunch. Swimming required.</p><p id="">(BOAT/LAND)</p><p id="">Travel by boat then land. Same basic details once you get there. </p><p id="">‍</p>]]></body>
+		<duration><![CDATA[Depart EP 7am – return approximately 5pm]]></duration>
+		<price><![CDATA[(AIR/LAND) US $445 per person, (BOAT/LAND) $330 per person]]></price>
+		<numberreq><![CDATA[]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd7e121342b41d022d9e_5bb4e6fc096def208bfac629_1280px-Actun_tunichil_muknal-pottery.jpeg]]></listthumbnail>
+		<herobackground><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd7e121342b41d022d9e_5bb4e6fc096def208bfac629_1280px-Actun_tunichil_muknal-pottery.jpeg]]></herobackground>
+		<heroattribution><![CDATA[By Jkolecki [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], from Wikimedia Commons]]></heroattribution>
+		<category><![CDATA[Land]]></category>
+		<subcategory><![CDATA[Cave]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[Explore the ancient ATM Cave in Belize with El Pescador. Discover rare artifacts and mineralized human remains in this stunning subterranean cathedral. Book you]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Catamaran Snorkeling  Trip to Caye Caulker]]></name>
+		<slug><![CDATA[catamaran-snorkeling-trip-to-caye-caulker]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b367ed74f2e502]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:51 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:59:43 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[11]]></order>
+		<summary><![CDATA[Sail to our neighboring island of Caye Caulker, located 10 miles south of Ambergris Caye. Enjoy this quaint village. Snorkel the famous Hol Chan Marine Reserve, swim with nurse sharks and stingrays at Shark Ray Alley.]]></summary>
+		<body><![CDATA[<p>Sail to our neighboring island of Caye Caulker, located 10 miles south of Ambergris Caye. Enjoy this quaint village. Snorkel the famous Hol Chan Marine Reserve, swim with nurse sharks and stingrays at Shark Ray Alley. Full day trip includes sodas, rum punch, and two snorkeling stops. It does not include lunch or park fees.</p><p>‍</p>]]></body>
+		<duration><![CDATA[Depart EP 8:30am – return approximately 4:30pm]]></duration>
+		<price><![CDATA[US $115 per person]]></price>
+		<numberreq><![CDATA[]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd7f7569f55c34fba29f_5c2552f44fdbba8175bf5ee1_act-catamaran-jselser%2520(1%2520of%25201).jpeg]]></listthumbnail>
+		<herobackground><![CDATA[]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Sea]]></category>
+		<subcategory><![CDATA[Saling]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[Sail to Caye Caulker from Ambergris Caye, snorkel at Hol Chan Marine Reserve, and swim with sharks and rays at Shark Ray Alley. Full day trip with two stops!]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Catamaran Sunset Sailing]]></name>
+		<slug><![CDATA[catamaran-sunrise-or-sunset-sailing]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b36737def2e503]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:51 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:58:43 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[12]]></order>
+		<summary><![CDATA[Enjoy sailing on a catamaran to watch the sunset over the clear Caribbean waters.]]></summary>
+		<body><![CDATA[<p> Wind down for your day while you enjoy sailing on Catamaran to watch the sunset over the clear Caribbean waters.</p><p>Depart from El Pescador at 3:30 pm – return approximately 7:30 pm.</p>]]></body>
+		<duration><![CDATA[Approx. 3 1/2 hours]]></duration>
+		<price><![CDATA[US $45 per person]]></price>
+		<numberreq><![CDATA[]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd7fcb585f2d7744d662_5c2556111110ec2f6b003104_act_sunset_AS_74185349.jpeg]]></listthumbnail>
+		<herobackground><![CDATA[]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Sea]]></category>
+		<subcategory><![CDATA[Saling]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[Relax and sail on a catamaran to watch the sunset over the Caribbean waters. Depart from El Pescador at 3:30 pm and return by 7:30 pm. Book your sunset cruise!]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Cave Tubing and  Zipline Or Belize Zoo Or Xunantunich]]></name>
+		<slug><![CDATA[cave-tubing-zipline-or-belize-zoo-or-xunantunich]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b3672f22f2e504]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:51 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:21:48 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[]]></order>
+		<summary><![CDATA[Travel by boat to the mainland where you will choose either zip lining through the rainforest, a visit to the Belize Zoo or exploring the Maya ruin of Xunantunich in the morning. After lunch, enjoy a refreshing tubing adventure down a river and through ancient Maya Caves. Return to the island via boat. Full day tour includes lunch.]]></summary>
+		<body><![CDATA[<p id="">Travel by boat to the mainland where you will choose either zip lining through the rainforest, a visit to the Belize Zoo or exploring the Maya ruin of Xunantunich in the morning. After lunch, enjoy a refreshing tubing adventure down a river and through ancient Maya Caves. Return to the island via boat. Full day tour includes lunch.</p><p id="">Cave Tubing and Zipline (boat/land) US $220 per person</p><p id="">Cave Tubing and Belize Zoo (boat/land) US $170 per person</p><p id="">Cave Tubing and Xunantunich (boat/land) US $220 per person</p>]]></body>
+		<duration><![CDATA[Depart EP 6:45am – return approximately 6pm]]></duration>
+		<price><![CDATA[]]></price>
+		<numberreq><![CDATA[]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd7f1213428442022da1_5c255e034fdbbaf0ccbf6b90_act_zipline_as_94767528.jpeg]]></listthumbnail>
+		<herobackground><![CDATA[]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Land]]></category>
+		<subcategory><![CDATA[Ruins]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[Experience adventure in Belize with El Pescador. Choose zip lining, the Belize Zoo, or exploring Xunantunich, plus cave tubing. Full-day tour with lunch include]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Flats Fishing]]></name>
+		<slug><![CDATA[flats-fishingi]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b367580af2e505]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:52 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:58:00 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[1]]></order>
+		<summary><![CDATA[El Pescador, means “The fisherman” and we specialize in light tackle, shallow water flats fishing for bonefish, permit and tarpon. Our guides are English speaking and experienced in guiding both fly and spin fishermen. One or two anglers per boat/guide.]]></summary>
+		<body><![CDATA[<p>El Pescador, means “The fisherman” and we specialize in light tackle, shallow water flats fishing for bonefish, permit and tarpon. Our guides are English speaking and experienced in guiding both fly and spin fishermen. One or two anglers per boat/guide.</p>]]></body>
+		<duration><![CDATA[Depart EP 7am - return 3pm]]></duration>
+		<price><![CDATA[Full Day - US $650 tax for up to 2 people, ]]></price>
+		<numberreq><![CDATA[One or two per guide]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd80ff1c07631d9dc2e3_5c254ca13c78e5dc118d874f_act-flats-fishing-hg-1407.jpeg]]></listthumbnail>
+		<herobackground><![CDATA[]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Sea]]></category>
+		<subcategory><![CDATA[Fishing]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[El Pescador specializes in light tackle, shallow water flats fishing for bonefish, permit, and tarpon. English-speaking guides for fly and spin fishermen. ]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Great Blue Hole & Barrier Reef (Flight Only)]]></name>
+		<slug><![CDATA[great-blue-hole-barrier-reef-flight]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b3675922f2e552]]></itemid>
+		<createdon><![CDATA[Sun Jan 06 2019 13:10:29 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:51:17 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[9]]></order>
+		<summary><![CDATA[Enjoy miles of unspoiled beauty as you fly across the Belize Barrier Reef System to view secluded islands, mangrove-covered cayes, diverse marine life, and the famed Great Blue Hole, a UNESCO World Heritage site.]]></summary>
+		<body><![CDATA[<p>Enjoy miles of unspoiled beauty as you fly across the Belize Barrier Reef System to view secluded islands, mangrove-covered cayes, diverse marine life, and the famed Great Blue Hole, a UNESCO World Heritage site.</p><p>Aircraft - Bell 206 Jet Ranger (max load 700 lbs)</p><p>Seating for: Four (4)</p><p>Departure from San Pedro</p><p>‍</p><p>‍</p>]]></body>
+		<duration><![CDATA[1:06 to 1:24 hours]]></duration>
+		<price><![CDATA[$2,150]]></price>
+		<numberreq><![CDATA[1]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c3210f3ff1c077a7f9f142e_Astrum_Blue%2BHole%2B%26%2BHelicopter_108.jpg]]></listthumbnail>
+		<herobackground><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c31fdef32c187fdae050152_adv_flight_bluehole_as_59560914.jpg]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Sea]]></category>
+		<subcategory><![CDATA[Flight]]></subcategory>
+		<video><![CDATA[https://youtu.be/RCCsZzRHEGs]]></video>
+		<metadescription><![CDATA[Fly over the Belize Barrier Reef System and marvel at secluded islands, mangroves, marine life, and the Great Blue Hole, a UNESCO World Heritage site. Book your]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Great Blue Hole & Barrier Reef Flight and Snorkel Dive Add-on]]></name>
+		<slug><![CDATA[great-blue-hole-barrier-reef-flight-and-snorkel-dive-addon]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b3674157f2e553]]></itemid>
+		<createdon><![CDATA[Sun Jan 06 2019 13:22:35 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:50:44 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[9]]></order>
+		<summary><![CDATA[Enjoy miles of unspoiled beauty as you fly across the Belize Barrier Reef System to view secluded islands, mangrove-covered cayes, diverse marine life, and the famed Great Blue Hole, a UNESCO World Heritage site. ]]></summary>
+		<body><![CDATA[<p>Disembark at a private Caye, where a waiting boat will whisk you away to either diving or snorkeling adventures at three amazing sites: Great Blue Hole, Half Moon Caye, and The Aquarium.</p><p>Aircraft - Bell 206 Jet Ranger (max load 700 lbs) .</p><p>Seating for: Four (4)</p><p>Departure from San Pedro</p><p>Lunch Included</p><p>Note: Bell 407 available for additional fee (max load 1100 lbs. with seating for six).</p><p>‍</p>]]></body>
+		<duration><![CDATA[]]></duration>
+		<price><![CDATA[Add-on Price $5,400 ($7,550 total)]]></price>
+		<numberreq><![CDATA[1]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c31fe1cff1c0742cf9f0845_adv_flight_bluehole_as_59560914%400%2C5x.jpg]]></listthumbnail>
+		<herobackground><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c31fdef32c187fdae050152_adv_flight_bluehole_as_59560914.jpg]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Sea]]></category>
+		<subcategory><![CDATA[Flight]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[Soar over the Belize Barrier Reef System and view secluded islands, mangroves, marine life, and the Great Blue Hole, a UNESCO World Heritage site. Experience th]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Kayak San Pedro Lagoon]]></name>
+		<slug><![CDATA[kayak-san-pedro-lagoon]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b367d058f2e506]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:52 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Tue Jun 25 2024 22:54:58 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[]]></publishedon>
+		<order><![CDATA[2]]></order>
+		<summary><![CDATA[A two or four hours guided interpretive kayaking tour of the San Pedro lagoon. Experience the beauty of mangrove lagoons, birds, fish, flora and fauna.]]></summary>
+		<body><![CDATA[<p>A two or four hours guided interpretive kayaking tour of the San Pedro lagoon. Experience the beauty of mangrove lagoons, birds, fish, flora and fauna.</p>]]></body>
+		<duration><![CDATA[AM departs EP 9am – PM departs EP 2pm]]></duration>
+		<price><![CDATA[US $50 per person x per hour. Two hour minimum.]]></price>
+		<numberreq><![CDATA[]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd801213426d25022da4_5c254d224fdbba2013bf5a53_act-kayak-dbl1477.jpeg]]></listthumbnail>
+		<herobackground><![CDATA[]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Sea]]></category>
+		<subcategory><![CDATA[]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Lamanai and New River Excursion (Air/Land)]]></name>
+		<slug><![CDATA[lamanai-and-new-river-air-land]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b367b919f2e507]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:52 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:57:24 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[]]></order>
+		<summary><![CDATA[With this shorter excursion you will travel by air to the ancient Maya City of Lamanai. ]]></summary>
+		<body><![CDATA[<p>Visit the ancient Maya City of Lamanai (submerged crocodile). Tour temples and carved stone monuments nestled in the tropical jungle. The excavations done at Lamanai show a variety of structures including temples, residences and palace buildings. Full day tour includes a light breakfast, lunch, entrance fees, water, sodas, and rum punch.</p><p>You will be flown from San Pedro to inland Belize close to Lamanai where you will take quick journey by tour bus to the site. </p>]]></body>
+		<duration><![CDATA[Depart EP 7:15am – return approximately 3pm]]></duration>
+		<price><![CDATA[US $300 per person]]></price>
+		<numberreq><![CDATA[]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd80edb5fde557b17455_5c255c9b9a157501e0862692_act_lam-AS_79419028.jpeg]]></listthumbnail>
+		<herobackground><![CDATA[]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Land]]></category>
+		<subcategory><![CDATA[Ruins]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[Discover the ancient Maya City of Lamanai with a full-day tour. Fly from San Pedro, tour temples and monuments, and enjoy breakfast, lunch, and drinks. Book now]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Lamanai New River Excursion (Boat/Land)]]></name>
+		<slug><![CDATA[lamanai-new-river-excursion]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b3677a5bf2e51e]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:53 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:56:36 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[]]></order>
+		<summary><![CDATA[An exceptionally clear and unspoiled river leads you to the New River lagoon and the ancient Maya City of Lamanai.]]></summary>
+		<body><![CDATA[<p>An exceptionally clear and unspoiled river leads you to the New River lagoon and the ancient Maya City of Lamanai (submerged crocodile). Tour temples and carved stone monuments nestled in the tropical jungle. The excavations done at Lamanai show a variety of structures including temples, residences and palace buildings. Birdwatchers—this one is for you! Full day tour includes a light breakfast, lunch, entrance fees, water, sodas, and rum punch.</p><p>You will travel by boat up the New River and then disembark for your tour of Lamanai. </p>]]></body>
+		<duration><![CDATA[Depart EP 6:45am – return approximately 6pm]]></duration>
+		<price><![CDATA[US $195 per person]]></price>
+		<numberreq><![CDATA[]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd81edb5fddf32b17458_5c255d523c78e587c28d9cb4_act_lamanai-as_62104928.jpeg]]></listthumbnail>
+		<herobackground><![CDATA[]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Land]]></category>
+		<subcategory><![CDATA[Ruins]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[Explore the ancient Maya City of Lamanai on a full-day tour. Journey by boat up the New River, see temples and monuments, and enjoy birdwatching. Book Now!]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Manatee Watch Snorkeling 1/2 Day ]]></name>
+		<slug><![CDATA[manatee-watch-snorkeling]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b3670cabf2e530]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:53 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:55:51 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[14]]></order>
+		<summary><![CDATA[An up close and personal view of the West Indies Manatees in their natural habitat. Snorkel at the Caye Caulker Channel & Corals Gardens . ]]></summary>
+		<body><![CDATA[<p id="">An up close and personal view of the West Indies Manatees in their natural habitat. Snorkel at the Caye Caulker Channel &amp; &nbsp;Corals Gardens . Visit the famous "split" for lunch and cocktails guest will need to bring money or credit cards to purchase lunch. </p>]]></body>
+		<duration><![CDATA[Depart EP 8:00am – return approximately 2:00pm]]></duration>
+		<price><![CDATA[US $550 for 1-4 guests]]></price>
+		<numberreq><![CDATA[]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd811213427d0d022da7_5bb54b65e7315006031a94b9_manatee-caye-caulker-AdobeStock_122561100.jpeg]]></listthumbnail>
+		<herobackground><![CDATA[]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Sea]]></category>
+		<subcategory><![CDATA[Snorkel]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[Enjoy a half-day Manatee Watch Snorkeling tour. See West Indies Manatees, snorkel at Caye Caulker Channel & Coral Gardens, and visit the "split" for lunch.]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Mexico Rocks Sailing]]></name>
+		<slug><![CDATA[mexico-rocks-sailing]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b367e01bf2e542]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:53 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:45:35 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[13]]></order>
+		<summary><![CDATA[Enjoy a full day of sailing while stopping at our preferred snorkel stops - Habaneros, Mexico Rocks, and Mata Grande shipwreck. Mid-day enjoy a feast of local BBQ.]]></summary>
+		<body><![CDATA[<p>Escape to the northern side of Ambergris Caye. Enjoy a full day of sailing while stopping at our preferred snorkel stops - Habaneros, Mexico Rocks, and Mata Grande shipwreck. Mid-day enjoy a feast of local BBQ. Enjoy the tranquility and peacefulness of the less inhabited side of our island.</p><p>‍</p>]]></body>
+		<duration><![CDATA[All Day. Approx. 8 hours.]]></duration>
+		<price><![CDATA[US $115 per person]]></price>
+		<numberreq><![CDATA[]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd81cb585f8d0744d665_5c2a54741110ec093404839d_act_mrocks_as_174911947.jpeg]]></listthumbnail>
+		<herobackground><![CDATA[]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Sea]]></category>
+		<subcategory><![CDATA[Saling]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[Set sail on a full-day adventure with El Pescador. Snorkel at Habaneros, Mexico Rocks, and Mata Grande shipwreck. Enjoy a delicious local BBQ. Book now!]]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Parasailing]]></name>
+		<slug><![CDATA[parasailing]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b36728e9f2e54a]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:54 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:54:44 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[15]]></order>
+		<summary><![CDATA[This excursion gives you a bird’s-eye view of our beautiful island. Ride with the most experienced crew in Belize, in comfort and trust.]]></summary>
+		<body><![CDATA[<p>This excursion gives you a bird’s-eye view of our beautiful island. Ride with the most experienced crew in Belize, in comfort and trust.</p><p>‍</p>]]></body>
+		<duration><![CDATA[Time varies depending on individual or group.]]></duration>
+		<price><![CDATA[US $125 for Single, US $200 for tandem, US $260 for triple]]></price>
+		<numberreq><![CDATA[]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd8212134210bc022dab_5c2536e59a1575020285eb79_act_para_20090315_elpescador_bz_112_small.jpeg]]></listthumbnail>
+		<herobackground><![CDATA[]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Sea]]></category>
+		<subcategory><![CDATA[]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[Experience parasailing in Belize for a bird's-eye view of our beautiful island. Fly with the most experienced crew in comfort and trust. Book now!]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Reef Fishing & Beach Picnic]]></name>
+		<slug><![CDATA[reef-fishing-beach-picnic]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b36762fbf2e54b]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:54 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:22:36 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[2]]></order>
+		<summary><![CDATA[Fish the reef and enjoy your catch with a BBQ lunch on a secluded beach. Enjoy wading, shelling or just relaxing in the sun while your picnic is prepared. Spend the afternoon snorkeling or try more fishing!]]></summary>
+		<body><![CDATA[<p id="">Fish the reef for your “catch of the day.” Your guide will BBQ your freshly caught fish on a secluded beach. You may enjoy wading, shelling or just relaxing in the sun while your picnic is prepared. Spend the afternoon snorkeling or try more fishing! Includes boat, fishing gear and guide for eight consecutive hours, lunch and drinks. Up to four anglers per boat/guide.</p><p id="">FULL DAY: US $650 for up to 4 people</p><p id="">HALF DAY: US $425 for up to 4 people</p>]]></body>
+		<duration><![CDATA[Depart 8:30am – return approximately 3:30pm]]></duration>
+		<price><![CDATA[See above]]></price>
+		<numberreq><![CDATA[1]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd8232c18734a003d203_5c25508d77f2834b739c7220_act-reef-fishing-om-5469.jpeg]]></listthumbnail>
+		<herobackground><![CDATA[]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Sea]]></category>
+		<subcategory><![CDATA[Fishing]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[Enjoy reef fishing and a BBQ lunch on a secluded beach with El Pescador. Relax, snorkel, or fish more after your picnic. Book your Belize adventure now!]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Scuba Diving Trips]]></name>
+		<slug><![CDATA[scuba-diving]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b36748a4f2e54c]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:54 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:53:54 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[4]]></order>
+		<summary><![CDATA[Choose local diving or full day trips with one, two, or three tanks. Day and night dives available.]]></summary>
+		<body><![CDATA[<h3 id="">Local Diving: </h3><p id="">One, Two and Three tank local dives plus Night dives</p><h3 id="">Day trips</h3><ul id=""><li id="">The Blue Hole (3 Tanks)</li><li id="">Turneffe Elbow (3 Tanks)</li></ul><p>Ambergris Caye offers some of the most beautiful diving in the world. Enjoy the numerous fish and beautiful coral at the dozens of dive sites along our barrier reef, or venture out to some of the breathtaking atolls for an all day trip.</p><p id="">*Please note all scuba divers MUST be certified and MUST have been diving within the past 3 years to qualify for local diving rates. &nbsp;If you do not meet these requirements, we also offer PADI courses. </p><h3 id="">Rates</h3><p id="">Includes weights, belt, tank(s), and drinks. Personal gear such as BCD, regulator, mask, snorkel &amp; fins, lights for night dives and/or wetsuit are not included but are available for rent. </p><p id="">Park fees, if applicable, are not included. You must be certified to dive.</p><p id="">Local diving rates (min 2 pax):</p><ul id=""><li id="">Local 1 tank US $60 per person</li><li id="">Local 2 tank US $90 per person</li><li id="">Local 3 tank US $145 per person</li></ul><p id="">Turneffe Elbow</p><ul id=""><li id="">3-Tank with Beach BBQ US $235 per person (min12 pax) </li></ul><p id="">Blue Hole</p><ul id=""><li id="">3 tank US $285 per person (includes US $40 park fee) (min12 pax) </li></ul><p id="">‍</p>]]></body>
+		<duration><![CDATA[Time varies depending on destination]]></duration>
+		<price><![CDATA[]]></price>
+		<numberreq><![CDATA[]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd827569f59dc0fba2a4_5c2548561110ec56570010a8_act_dive.jpeg]]></listthumbnail>
+		<herobackground><![CDATA[]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Sea]]></category>
+		<subcategory><![CDATA[Dive]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[Explore Ambergris Caye's stunning dive sites with local dives and day trips to The Blue Hole and Turneffe Elbow. Certified divers only. Book your dive adventure]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Scuba Diving Courses]]></name>
+		<slug><![CDATA[scuba-diving-courses]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b367ff79f2e54d]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:55 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:53:27 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[5]]></order>
+		<summary><![CDATA[Resort Course, Refresher Course, Referral Course, Open Water Course, Advanced Open Water, Rescue, Medic First Aid and Dive Master. ]]></summary>
+		<body><![CDATA[<p id="">PADI dive instructors offer a variety of courses for the novice to the experienced diver.&nbsp;</p><p id=""><strong id="">Courses Available</strong></p><p id="">Resort / Refresher Course US $150<br>Resort Discover Scuba Diving Course US $180<br>E-learning Referral US $400<br>Advanced Open Water US $450<br>Open Water Certification US $450<br>Rescue Course US $300<br></p>]]></body>
+		<duration><![CDATA[The length of the dive courses varies from a half day to one week.]]></duration>
+		<price><![CDATA[Varies by Course]]></price>
+		<numberreq><![CDATA[1]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd83ff1c07f54f9dc2e7_5c2548f2fd28a751adee83de_act_div-courses.jpeg]]></listthumbnail>
+		<herobackground><![CDATA[]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Sea]]></category>
+		<subcategory><![CDATA[Dive]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[Learn to dive with PADI instructors at El Pescador. Courses for all levels: beginner to advanced. Book now and start your underwater adventure!]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Snorkeling]]></name>
+		<slug><![CDATA[snorkeling]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b3671178f2e54e]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:55 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:52:52 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[7]]></order>
+		<summary><![CDATA[Half-day trips include Hol Chan Marine Reserve and Shark Ray Alley, Mexico Rocks, and Coral Gardens.]]></summary>
+		<body><![CDATA[<p id="">Enjoy the underwater wonders of the Belize Barrier Reef, host to a variety of species including sharks, rays, eels, grouper, parrot fish, trigger fish, seahorses, turtles, shrimp, sea fans, coral and many other wondrous aquatic lives. Length and rate of trips vary by snorkeling destinations.</p><p id="">1/2 day trips include Hol Chan Marine Reserve &amp; Shark Ray Alley, Mexico Rocks, and Coral Gardens.</p><p id="">Snorkeling Hol Chan &amp; Shark Ray Alley marine reserve (half day) </p><ul id=""><li id="">US $70 per person</li></ul><p id="">Coral Garden snorkeling (half day)</p><ul id=""><li id="">US $160 per person</li></ul><p id="">Mexico Rocks 2 snorkeling stops (half day) </p><ul id=""><li id="">US $70 per person</li></ul><p id="">‍</p>]]></body>
+		<duration><![CDATA[Time and cost varies depending on destination]]></duration>
+		<price><![CDATA[See above]]></price>
+		<numberreq><![CDATA[]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd83ff1c0746019dc2ea_5c254ada77f2830fa59c6a70_act_snorkel-Klug-November%2520Belize-2014-42.jpeg]]></listthumbnail>
+		<herobackground><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd83ff1c07710e9dc2eb_5bb51e1ce56d4d2f2df7ec37_20090315_elpescador_bz_112.jpeg]]></herobackground>
+		<heroattribution><![CDATA[Jeff Selser]]></heroattribution>
+		<category><![CDATA[Sea]]></category>
+		<subcategory><![CDATA[]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[Discover the Belize Barrier Reef's diverse marine life with snorkeling trips to Hol Chan, Shark Ray Alley, Mexico Rocks, and Coral Gardens. Book your adventure ]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Snorkeling Trip to  Bacalar Chico]]></name>
+		<slug><![CDATA[snorkeling-trip-to-bacalar-chico]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b3675968f2e54f]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:55 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:49:22 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[8]]></order>
+		<summary><![CDATA[Make three snorkeling stops on the way up the coast of Ambergris Caye to the border with Mexico and the beautiful, remote Bacalar Chico Marine Reserve, UNESCO World Heritage site.]]></summary>
+		<body><![CDATA[<p>Make three snorkeling stops on the way up the coast of Ambergris Caye to the border with Mexico and the beautiful, remote Bacalar Chico marine reserve, UNESCO World Heritage site. This spot offers excellent opportunities to collect seashells or, for those who brought along a fishing rod, wade un-guided for bonefish. Enjoy a delicious beach picnic of fresh seasonal seafood cooked over coconut husks. </p>]]></body>
+		<duration><![CDATA[Depart EP 8:30am – return approximately 5:00pm]]></duration>
+		<price><![CDATA[For 1 to 8 guests - US $900, any additional guests US $100 each]]></price>
+		<numberreq><![CDATA[]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd831213421aad022dae_5c254a729a15756183861085_act-snorkel-Klug-November%2520Belize-2014-65.jpeg]]></listthumbnail>
+		<herobackground><![CDATA[]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Sea]]></category>
+		<subcategory><![CDATA[Snorkel]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[Snorkel at three stunning spots along Ambergris Caye, ending at the Bacalar Chico Marine Reserve, a UNESCO World Heritage site. Book your adventure with El Pesc]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Snorkeling Trip to Caye Caulker - (Charter)]]></name>
+		<slug><![CDATA[snorkeling-trip-to-caye-caulker-charter]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b36738c9f2e550]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:56 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:52:19 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[9]]></order>
+		<summary><![CDATA[Snorkeling trip to Caye Caulker with stops at Hol Chan and Shark Ray Alley. Lunch at Caye Caulker , then feed the Tarpon and Rays]]></summary>
+		<body><![CDATA[<p id="">Snorkeling at Hol Chan &amp; Shark Ray Alley, then visit our neighboring island Caye Caulker for lunch, guest will need to &nbsp;bring money or credit cards to purchase lunch </p><p id="">Tarpon feeding, sightseeing seahorse, and feeding the rays. </p><p id="">‍</p>]]></body>
+		<duration><![CDATA[Depart EP 10am – return approximately 5pm]]></duration>
+		<price><![CDATA[US $550]]></price>
+		<numberreq><![CDATA[For 1-4 guest ]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd841213429e30022db1_5c2553f8fd28a74615ee9b1e_act-snorkeling-holchan-om-5590.jpeg]]></listthumbnail>
+		<herobackground><![CDATA[]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Sea]]></category>
+		<subcategory><![CDATA[Snorkel]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[Snorkel at Hol Chan & Shark Ray Alley, then lunch at Caye Caulker. Enjoy tarpon feeding, seahorse sightseeing, and ray feeding. Bring money for lunch. Book now!]]></metadescription>
+	</node>
+	<node>
+		<name><![CDATA[Spa Services]]></name>
+		<slug><![CDATA[spa-services]]></slug>
+		<collectionid><![CDATA[5c684cb846b367fa86f2e403]]></collectionid>
+		<itemid><![CDATA[5c684cb846b3671a98f2e551]]></itemid>
+		<createdon><![CDATA[Sat Jan 05 2019 14:21:56 GMT+0000 (Coordinated Universal Time)]]></createdon>
+		<updatedon><![CDATA[Wed Jul 03 2024 20:51:50 GMT+0000 (Coordinated Universal Time)]]></updatedon>
+		<publishedon><![CDATA[Wed Jul 03 2024 21:52:06 GMT+0000 (Coordinated Universal Time)]]></publishedon>
+		<order><![CDATA[]]></order>
+		<summary><![CDATA[Enjoy a fabulous deep tissue massage, facial, manicure, or pedicure from one of our specialists.]]></summary>
+		<body><![CDATA[<p>Enjoy a fabulous deep tissue massage, facial, manicure, or pedicure from one of our specialists. Spa services may be conducted in the massage Room (in the main lodge on the second floor above the office), in your room or villa, on the dock or even on the beach!</p><ul><li>Massage - US $80 per hour</li><li>Manicure - US $25</li><li>Pedicure - US $40</li><li>Facial - US $50</li></ul><p>‍</p>]]></body>
+		<duration><![CDATA[Available by appointment. Please schedule with the front desk.]]></duration>
+		<price><![CDATA[]]></price>
+		<numberreq><![CDATA[]]></numberreq>
+		<listthumbnail><![CDATA[https://uploads-ssl.webflow.com/57fa7f0754bcd3af639ff409/5c30bd84cb585f506144d66c_5c2779d377f28327a19ea785_therapist-pouring-massage-oil-at-spa-GWM6LQV.jpeg]]></listthumbnail>
+		<herobackground><![CDATA[]]></herobackground>
+		<heroattribution><![CDATA[]]></heroattribution>
+		<category><![CDATA[Land]]></category>
+		<subcategory><![CDATA[]]></subcategory>
+		<video><![CDATA[]]></video>
+		<metadescription><![CDATA[Indulge in a deep tissue massage, facial, manicure, or pedicure at El Pescador. Enjoy spa services in your room, villa, on the dock, or beach. Book your relaxat]]></metadescription>
+	</node>
+</data>
