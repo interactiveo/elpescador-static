@@ -82,25 +82,25 @@ Copyright UAB Dinamenta http://www.dhtmlx.com
 }
 .dhtmlxcalendar_wordpress div.dhtmlxcalendar_month_cont ul.dhtmlxcalendar_line li.dhtmlxcalendar_cell.dhtmlxcalendar_month_hdr div.dhtmlxcalendar_month_arrow.dhtmlxcalendar_month_arrow_left {
 	left: 4px;
-	background-image: url("./../imgs/dhxcalendar_terrace/dhxcalendar_arrow_left.gif");
+	background-image: url("../imgs/dhxcalendar_terrace/dhxcalendar_arrow_left.gif");
 	opacity: 0.8;
 	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80);
 }
 .dhtmlxcalendar_wordpress div.dhtmlxcalendar_month_cont ul.dhtmlxcalendar_line li.dhtmlxcalendar_cell.dhtmlxcalendar_month_hdr div.dhtmlxcalendar_month_arrow.dhtmlxcalendar_month_arrow_left_hover {
 	left: 4px;
-	background-image: url("./../imgs/dhxcalendar_terrace/dhxcalendar_arrow_left.gif");
+	background-image: url("../imgs/dhxcalendar_terrace/dhxcalendar_arrow_left.gif");
 	opacity: 1;
 	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=100);
 }
 .dhtmlxcalendar_wordpress div.dhtmlxcalendar_month_cont ul.dhtmlxcalendar_line li.dhtmlxcalendar_cell.dhtmlxcalendar_month_hdr div.dhtmlxcalendar_month_arrow.dhtmlxcalendar_month_arrow_right {
 	right: 4px;
-	background-image: url("./../imgs/dhxcalendar_terrace/dhxcalendar_arrow_right.gif");
+	background-image: url("../imgs/dhxcalendar_terrace/dhxcalendar_arrow_right.gif");
 	opacity: 0.8;
 	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80);
 }
 .dhtmlxcalendar_wordpress div.dhtmlxcalendar_month_cont ul.dhtmlxcalendar_line li.dhtmlxcalendar_cell.dhtmlxcalendar_month_hdr div.dhtmlxcalendar_month_arrow.dhtmlxcalendar_month_arrow_right_hover {
 	right: 4px;
-	background-image: url("./../imgs/dhxcalendar_terrace/dhxcalendar_arrow_right.gif");
+	background-image: url("../imgs/dhxcalendar_terrace/dhxcalendar_arrow_right.gif");
 	opacity: 1;
 	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=100);
 }
@@ -318,7 +318,7 @@ Copyright UAB Dinamenta http://www.dhtmlx.com
 	background-color: #fff3a1;
 }
 .dhtmlxcalendar_wordpress div.dhtmlxcalendar_dates_cont ul.dhtmlxcalendar_line div.dhtmlxcalendar_label.dhtmlxcalendar_label_title {
-	background-image: url("./../imgs/dhxcalendar_terrace/dhxcalendar_mark.gif");
+	background-image: url("../imgs/dhxcalendar_terrace/dhxcalendar_mark.gif");
 	background-position: top right;
 	background-repeat: no-repeat;
 }
@@ -356,7 +356,7 @@ Copyright UAB Dinamenta http://www.dhtmlx.com
 	top: 6px;
 	width: 13px;
 	height: 13px;
-	background-image: url("./../imgs/dhxcalendar_terrace/dhxcalendar_clock.gif");
+	background-image: url("../imgs/dhxcalendar_terrace/dhxcalendar_clock.gif");
 	background-position: center center;
 	background-repeat: no-repeat;
 }
@@ -396,7 +396,7 @@ Copyright UAB Dinamenta http://www.dhtmlx.com
 	width: 100%;
 	height: 9px;
 	overflow: hidden;
-	background-image: url("./../imgs/dhxcalendar_terrace/dhxcalendar_selector_top.gif");
+	background-image: url("../imgs/dhxcalendar_terrace/dhxcalendar_selector_top.gif");
 	background-position: top center;
 	background-repeat: no-repeat;
 }
@@ -426,13 +426,13 @@ Copyright UAB Dinamenta http://www.dhtmlx.com
 	padding: 0px;
 	margin: 0px;
 	background-color: white;
-	background-image: url("./../imgs/dhxcalendar_terrace/dhxcalendar_arrow_left.gif");
+	background-image: url("../imgs/dhxcalendar_terrace/dhxcalendar_arrow_left.gif");
 	background-position: center center;
 	background-repeat: no-repeat;
 	cursor: default;
 }
 .dhtmlxcalendar_wordpress div.dhtmlxcalendar_selector_obj table.dhtmlxcalendar_selector_table td.dhtmlxcalendar_selector_cell_left.dhtmlxcalendar_selector_cell_left_hover {
-	background-image: url("./../imgs/dhxcalendar_terrace/dhxcalendar_arrow_left.gif");
+	background-image: url("../imgs/dhxcalendar_terrace/dhxcalendar_arrow_left.gif");
 }
 .dhtmlxcalendar_wordpress div.dhtmlxcalendar_selector_obj table.dhtmlxcalendar_selector_table td.dhtmlxcalendar_selector_cell_middle {
 	cursor: default;
@@ -445,13 +445,13 @@ Copyright UAB Dinamenta http://www.dhtmlx.com
 	border-bottom: 0px solid white;
 	border-left: 0px solid white;
 	background-color: white;
-	background-image: url("./../imgs/dhxcalendar_terrace/dhxcalendar_arrow_right.gif");
+	background-image: url("../imgs/dhxcalendar_terrace/dhxcalendar_arrow_right.gif");
 	background-position: center center;
 	background-repeat: no-repeat;
 	cursor: default;
 }
 .dhtmlxcalendar_wordpress div.dhtmlxcalendar_selector_obj table.dhtmlxcalendar_selector_table td.dhtmlxcalendar_selector_cell_right.dhtmlxcalendar_selector_cell_right_hover {
-	background-image: url("./../imgs/dhxcalendar_terrace/dhxcalendar_arrow_right.gif");
+	background-image: url("../imgs/dhxcalendar_terrace/dhxcalendar_arrow_right.gif");
 }
 .dhtmlxcalendar_wordpress div.dhtmlxcalendar_selector_obj table.dhtmlxcalendar_selector_table td.dhtmlxcalendar_selector_cell_middle ul {
 	display: block;
@@ -514,7 +514,7 @@ Copyright UAB Dinamenta http://www.dhtmlx.com
 .dhtmlxcalendar_wordpress div.dhtmlxcalendar_selector_obj.dhtmlxcalendar_selector_minutes div.dhtmlxcalendar_selector_obj_arrow {
 	top: auto;
 	bottom: 1px;
-	background-image: url("./../imgs/dhxcalendar_terrace/dhxcalendar_selector_bottom.gif");
+	background-image: url("../imgs/dhxcalendar_terrace/dhxcalendar_selector_bottom.gif");
 }
 .dhtmlxcalendar_wordpress div.dhtmlxcalendar_selector_obj.dhtmlxcalendar_selector_hours table.dhtmlxcalendar_selector_table td.dhtmlxcalendar_selector_cell_middle ul.dhtmlxcalendar_selector_line,
 .dhtmlxcalendar_wordpress div.dhtmlxcalendar_selector_obj.dhtmlxcalendar_selector_hours2 table.dhtmlxcalendar_selector_table td.dhtmlxcalendar_selector_cell_middle ul.dhtmlxcalendar_selector_line,

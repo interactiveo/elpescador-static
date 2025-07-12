@@ -129,7 +129,7 @@ div#preview_form_container {
 div#preview_form_container.showgrid {
 	border: 1px solid #e6e6e6;
 	border-bottom: 4px solid #d3d3d3;
-	background-image:url(./../images/preview_grid.gif);
+	background-image:url(../images/preview_grid.gif);
 	background-position: 20px 0;
 	position: relative;
 	box-sizing: border-box;

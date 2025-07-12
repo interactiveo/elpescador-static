@@ -1,0 +1,49 @@
+.search--card {
+  border-radius: $border-radius;
+  background-color: white;
+  border: 1px solid rgba(#000,0.1);
+
+  .search-title {
+    font-size: 1.25em;
+  }
+
+  .excerpt {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    a {
+      display: none;
+    }
+  }
+
+}
+
+body.blog,
+body.search-results {
+  background-color: setcolor(green,light);
+  background: linear-gradient(0deg, rgba(214,235,236,1) 0%, rgba(214,235,236, 0) 100%); 
+  background-attachment: fixed;
+
+  main#main {
+    overflow: visible;
+  }
+
+  .page-hero {
+    background-image: url('/wp-content/themes/blankslate-child/img/webp/promo_bkg.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+
+  .top-search-wrap {
+    border: 1px solid rgba(#000,0.1);
+  }
+  
+  .searchandfilter {
+    position: sticky;
+    top: 200px;
+  }
+}
+

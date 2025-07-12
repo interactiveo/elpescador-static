@@ -1,0 +1,59 @@
+blockquote.testimonial {
+  font-style: italic;
+  position: relative;
+  quotes: auto;
+  border-radius: $border-radius;
+  padding: $gap*2;
+  padding-left: 3.75rem;
+  border: none;
+  background-color: setcolor(green,light);
+  &:before {
+    content: '';
+    display: block;
+    position: absolute;
+    pointer-events: none;
+    user-select: none;
+    top: 50%;
+    transform: translateY(-50%) scaleX(-1);;
+    font-style: normal;
+    line-height: 0;
+    font-family: sans-serif;
+    width: 1.875rem; /* 30/16 */
+    height: 1.875rem; /* 30/16 */
+    left: -0.9375rem; /* 15/16 */
+    background-color: $base-background-color;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 339.19 229.92' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='m73.49 0c-33.96 0-73.49 19.48-73.49 66.25 0 50.11 28.39 67.36 65.7 67.36 5.08 40.55-76.98 96.31-33.77 96.31 52.89 0 119.51-74.04 119.51-149.2-.01-62.35-40.65-80.72-77.95-80.72z'/%3E%3Cpath d='m261.25 0c-33.96 0-73.49 19.48-73.49 66.25 0 50.11 28.39 67.36 65.7 67.36 5.08 40.55-76.98 96.31-33.77 96.31 52.89 0 119.51-74.04 119.51-149.2-.01-62.35-40.65-80.72-77.95-80.72z'/%3E%3C/svg%3E");
+    background-size: 1rem auto;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    overflow: hidden;
+    border-radius: 50%;
+    z-index: 2;
+    text-align: center;
+  }
+  cite {
+    font-style: normal;
+    text-align: right;
+    font-family: $font-headline;
+    line-height: $lh-mid;
+    p {
+      margin-bottom: 0.63rem;
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+    .testimonial_author {
+      text-transform: uppercase;
+      font-weight: 700;
+      font-size: 0.925em;
+      &:before {
+        content: '\2014';
+        padding-right: 0.25em;
+      }
+    }
+    .testimonial_company {
+      font-weight: 600;
+      font-size: .77em;
+    }
+  }
+}

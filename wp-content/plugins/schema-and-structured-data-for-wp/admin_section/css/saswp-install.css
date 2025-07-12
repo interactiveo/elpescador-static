@@ -2348,7 +2348,7 @@ body.exiting .merlin__content--content .merlin__content__footer {
     position: absolute;
     left: calc( 50% - 40px);
     top: -110px; 
-    background-image: url(./../images/sd-logo-white.png);
+    background-image: url(../images/sd-logo-white.png);
     
 }
 .merlin__button--loading:before{     

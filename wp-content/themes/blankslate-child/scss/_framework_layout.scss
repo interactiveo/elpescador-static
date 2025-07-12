@@ -1,0 +1,152 @@
+// *****************************************
+// LAYOUTS
+// *****************************************
+
+
+// CONTAINER
+.inside {
+  max-width: $viewport-lg;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  z-index: 2;
+  &.mid {max-width: 1024px;}
+  &.mini {max-width: 768px;}
+}
+
+main#main {
+  overflow: hidden;
+  position: relative;
+}
+
+// BORDER RADIUS
+.border-radius {
+  border-radius: $border-radius;
+}
+
+// MODAL WINDOWS
+.modal-window {
+  display: none;
+  align-self: auto;
+}
+
+
+// DISPLAYS
+.block {display: block;}
+.inline-block {display: inline-block;}
+.hide-last:last-child {display: none;}
+
+
+// POSITIONS
+.relative {position: relative;}
+.absolute {position: absolute;}
+
+
+// MISC RULES
+.overflow-hidden {overflow: hidden;}
+.no-touch {pointer-events: none;}
+.select-none {user-select: none;}
+.h-100 {height: 100%;}
+.clearfix {@extend %clearfix;}
+
+
+// MARGINS
+.mt {margin-top: $gap;}
+.mb {margin-bottom: $gap;}
+.ml {margin-left: $gap;}
+.mr {margin-right: $gap;}
+
+.mb2 {margin-bottom: $gap/2;} //25px / 2
+.mb4 {margin-bottom: $gap/4;} //25px / 4
+.mt2 {margin-top: $gap/2;}
+.mt4 {margin-top: $gap/4;}
+
+.mt2x {margin-top: $gap*2;}
+.mb2x {margin-bottom: $gap*2;}
+
+.ml-auto {margin-left: auto;}
+.mr-auto {margin-right: auto;}
+.m-auto {margin: auto;}
+
+.mt0 {margin-top: 0 !important;}
+.mb0 {margin-bottom: 0 !important;}
+
+.flex-margins,
+.flex-margin {
+  margin-bottom: $gap*2;
+  margin-top: $gap*2;
+  // MD  ------------------------------------------
+  @include breakpoint(md) {
+    margin-bottom: $gap*4;
+    margin-top: $gap*4;
+  }//md
+}
+
+
+// PADDING
+.pt2 {padding-top: $gap/2;}
+.pb2 {padding-bottom: $gap/2;}
+.pl2 {padding-left: $gap/2;}
+.pr2 {padding-right: $gap/2;}
+
+.pt4 {padding-top: $gap/4;}
+.pb4 {padding-bottom: $gap/4;}
+.pl4 {padding-left: $gap/4;}
+.pr4 {padding-right: $gap/4;}
+
+.pt {padding-top: $gap;}
+.pb {padding-bottom: $gap;}
+.pl {padding-left: $gap;}
+.pr {padding-right: $gap;}
+
+.pt2x {padding-top: $gap*2;}
+.pb2x {padding-bottom: $gap*2;}
+.pl2x {padding-left: $gap*2;}
+.pr2x {padding-right: $gap*2;}
+
+.flex-padding {
+  padding-bottom: $gap*2;
+  padding-top: $gap*2;
+  // MD  ------------------------------------------
+  @include breakpoint(md) {
+    padding-bottom: $gap*4;
+    padding-top: $gap*4;
+  }//md
+}
+
+.pb0 {
+  padding-bottom: 0 !important;
+}
+
+.pt0 {
+  padding-top: 0 !important;
+}
+
+// PHONE NOTCH PADDING
+.wrap-x {
+  width: 100%;
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+  &.xt {padding-top: env(safe-area-inset-top);}
+  &.xb {padding-bottom: env(safe-area-inset-bottom);}
+}
+
+
+// ANIMATION
+@keyframes openModal {
+  from {
+    transform: translateY(100%) translate3d(0, 0, 0);
+  }
+  to {
+    transform: translateY(0) translate3d(0, 0, 0);
+  }
+}
+
+@keyframes openModal2 {
+  from {
+    transform: translateX(-50%) translateY(100%) translate3d(0, 0, 0);
+  }
+  to {
+    transform: translateX(-50%) translateY(-50%) translate3d(0, 0, 0);
+  }
+}

@@ -1,0 +1,203 @@
+// *****************************************
+// MEDIA
+// *****************************************
+
+
+// IMAGES
+svg,img {
+  image-rendering: -webkit-optimize-contrast;
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+
+img[loading="lazy"] {
+  @extend %svg-loading;
+  background-size: 50% 50%;
+}
+img[loading="lazy"].loaded {
+  background-image: none;
+}
+
+// OBJECT FIT WRAPS
+.object-cover-wrap {
+  @include object-fit-wrap(cover, 50% 50%);
+}
+
+.object-contain-wrap {
+  @include object-fit-wrap(contain, 50% 50%);
+}
+
+
+// OBJECT FIT POSITIONS
+.top-center img {
+  object-position: top center;
+}
+.bottom-center img {
+  object-position: bottom center;
+}
+.top-left img {
+  object-position: top left;
+}
+.top-right img {
+  object-position: top right;
+}
+.bottom-left img {
+  object-position: bottom left;
+}
+.bottom-right img {
+  object-position: bottom right;
+}
+.center-left img {
+  object-position: center left;
+}
+
+
+// FEATURED IMAGES
+.featured--image {
+  position: relative;
+  isolation: isolate;
+  display: block;
+  
+  &.border-radius {
+    img {
+      border-radius: $border-radius;
+    }
+  }
+
+  &.square {
+    aspect-ratio: 1 / 1;
+  }
+
+  &.circle {
+    aspect-ratio:  1 / 1;
+    img {
+      border-radius: 50%;
+      box-shadow: 0 .75rem 1rem -0.25rem rgba(0, 0, 0, 0.08), 0 .25rem .375rem -0.125rem rgba(0, 0, 0, 0.03);
+    }
+  }
+
+  &.wide {
+    aspect-ratio: 16 / 9;
+  }
+
+  &.rectangle {
+    aspect-ratio: 4 / 3;
+  }
+
+  &.tall {
+    aspect-ratio:  1 / 1.25;
+  }
+
+  &.video {
+    overflow: hidden;
+    &:after,
+    &:before {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-50%); 
+      width: 33%;
+      max-width: 200px;
+      aspect-ratio: 5 / 4;
+      background-repeat: no-repeat;
+      background-position: 50% 50%;
+    }
+    &:before {
+      z-index: 4;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 53.33 53.33' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='m0 26.67c0-14.73 11.94-26.67 26.67-26.67 7.07 0 13.86 2.81 18.86 7.81s7.81 11.78 7.81 18.86c0 14.73-11.94 26.67-26.67 26.67s-26.67-11.95-26.67-26.67zm21.79 11.41 15.55-9.71c.58-.37.93-1.02.93-1.71s-.35-1.33-.93-1.71l-15.6-9.71c-.61-.39-1.39-.41-2.03-.06s-1.03 1.02-1.04 1.74v19.47c0 .74.4 1.43 1.05 1.78.66.35 1.45.31 2.07-.1z' fill='%23fff' fill-rule='evenodd'/%3E%3C/svg%3E");
+      background-size: 32% auto;
+      opacity: 0.75;
+      @include transition(0.25s);
+      transition-property: opacity;
+    }
+    &:after {
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 160' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='m20 0h160c11.05 0 20 8.95 20 20v120c0 11.05-8.95 20-20 20h-160c-11.05 0-20-8.95-20-20v-120c0-11.05 8.95-20 20-20zm71.7 112.2 38.9-26c2.1-1.37 3.36-3.7 3.36-6.2s-1.26-4.83-3.36-6.2l-38.9-26c-2.3-1.55-5.26-1.71-7.71-.41s-3.98 3.84-3.99 6.61v52c0 2.77 1.54 5.32 3.99 6.61 2.45 1.3 5.42 1.14 7.71-.41z' fill-rule='evenodd'/%3E%3C/svg%3E");
+      z-index: 3;
+      background-size: contain;
+      opacity: 0.15;
+      mix-blend-mode: darken;
+      @include transition(0.25s);
+      transition-property: opacity;
+    }
+    img {
+      background-color: #034145;
+    }
+
+    &.video-still {
+      .object-cover-wrap {
+        &:before {
+          content: '';
+          display: block;
+          position: absolute;
+          inset: 0;
+          background-color: #034145;
+          border-radius: inherit;
+          pointer-events: none;
+          user-select: none;
+          opacity: 0.35;
+        }
+      }
+    }
+
+    @include hover {
+      &:before {
+        opacity: 1;
+      }
+      &:after {
+        opacity: 0.4;
+      }
+    }
+
+  }
+
+  &.auto {
+    .object-contain-wrap,
+    .object-cover-wrap {
+      position: relative;
+      top: auto;
+      bottom: auto;
+      left: auto;
+      right: auto;
+      img {
+        object-fit: fill;
+        width: auto;
+        height: auto;
+        max-width: 100%;
+        margin: 0 auto;
+      }
+    }
+  }
+
+}
+
+
+// EMBED CONTAINER
+.embed-container {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    max-width: 100%;
+    height: auto;
+    > * {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+    &.border-radius {
+      > * {
+        border-radius: $border-radius;
+      }
+    }
+}
+
+
+// Standard Image Wrap
+.img-wrap {
+  max-width: calc(50vw + 3.13rem);
+}

@@ -1,0 +1,14 @@
+.pagination {
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: .625rem;
+        justify-content: center;
+        * {
+            display: block;
+            flex: 0 0 auto;
+            max-width: 100%;
+        }
+    }
+}

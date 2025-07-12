@@ -1098,7 +1098,7 @@ Google review module ends here
 }
 /*.saswp_rv_module_pro_notice ul li.check-img:before{
     content: "";
-    background-image: url(./../images/check.png);
+    background-image: url(../images/check.png);
     background-repeat: no-repeat;
     background-size: 16px;
     width: 16px;

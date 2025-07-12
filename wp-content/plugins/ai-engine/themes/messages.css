@@ -455,7 +455,7 @@
   cursor: not-allowed;
 }
 .mwai-messages-theme .mwai-input .mwai-input-text .mwai-file-upload-icon {
-  background: url("./icons/white-icons.svg");
+  background: url("icons/white-icons.svg");
   background-size: 500%;
   background-position: 0px -96px;
   width: 32px;

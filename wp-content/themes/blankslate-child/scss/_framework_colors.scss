@@ -1,0 +1,88 @@
+// COLOR VARIABLES
+$overlay: rgba(#034145,0.9);
+
+$colors: (
+  white: (
+    base: #FFFFFF,
+    shade1: rgba(255,255,255,0.89)
+  ),
+  black: (
+    base: rgba(35, 31, 32, 0.60),
+    dark: #034145,
+    shade1: rgba(0,0,0,0.15),
+    shade2: rgba(0,0,0,0.05),
+  ),
+  grey: (
+    light: #EEE,
+    base: #CCC,
+    dark: #666
+  ),
+  yellow: (
+    base: #F9C748
+  ),
+  green: (
+    base: #9AC133,
+    dark: #034145,
+    dark2: #164045,
+    light: #D6EBEC,
+    shade1: rgba(#034145,0.65)
+  ),
+  teal: (
+    base: #00A99D
+  ),
+  red: (
+    error: #ff3333
+  )
+);
+
+
+// COLOR MAP GET
+// Example: 'setcolor(black)'
+// Example: 'setcolor(grey, dark)'
+@function setcolor($scheme, $tone: base) {
+  @return map-get(map-get($colors, $scheme), $tone);
+}
+
+
+// ==================================
+// SELECTION / HIGHLIGHTS
+// ==================================
+::selection {
+	background: rgba(#021a1c,0.85);
+	color: setcolor(white);
+}
+
+
+// COLOR CLASS GENERATOR
+@mixin color-modifiers($attribute: 'color', $prefix: '-', $separator: '-') {
+  @each $name, $color in $colors {
+    &#{$prefix}#{$name} {
+      @each $tone, $hex in $color {
+        &#{$separator}#{$tone} {
+          #{$attribute}: $hex;
+        }
+      }
+    }
+  }
+}
+
+
+// BG COLOR CLASS GENERATOR
+@mixin bg-color-modifiers($attribute: 'background-color', $prefix: '-', $separator: '-') {
+  @each $name, $color in $colors {
+    &#{$prefix}#{$name} {
+      @each $tone, $hex in $color {
+        &#{$separator}#{$tone} {
+          #{$attribute}: $hex;
+        }
+      }
+    }
+  }
+}
+
+
+// ==================================
+// CLASSES
+// ==================================
+.color {@include color-modifiers;}
+.bg {@include bg-color-modifiers;}

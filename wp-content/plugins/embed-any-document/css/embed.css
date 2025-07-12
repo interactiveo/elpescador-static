@@ -206,23 +206,23 @@ a.go-back {
 }
 
 .uploaded-doccument.ead-link {
-    background: url(./../images/icon-link.png) no-repeat center 5px / 36px 49px;
+    background: url(../images/icon-link.png) no-repeat center 5px / 36px 49px;
 }
 
 .uploaded-doccument.ead-upload {
-    background: url(./../images/icon-upload.png) no-repeat center 5px / 54px 49px;
+    background: url(../images/icon-upload.png) no-repeat center 5px / 54px 49px;
 }
 
 .uploaded-doccument.ead-dropbox {
-    background: url(./../images/icon-dropbox.png) no-repeat center 5px / 51px 49px;
+    background: url(../images/icon-dropbox.png) no-repeat center 5px / 51px 49px;
 }
 
 .uploaded-doccument.ead-drive {
-    background: url(./../images/icon-drive.png) no-repeat center 5px / 48px 49px;
+    background: url(../images/icon-drive.png) no-repeat center 5px / 48px 49px;
 }
 
 .uploaded-doccument.ead-box {
-    background: url(./../images/icon-box.png) no-repeat center 5px / 54px 49px;
+    background: url(../images/icon-box.png) no-repeat center 5px / 54px 49px;
 }
 
 .wp-core-ui .button#adv-options {
@@ -296,7 +296,7 @@ input.input-group-text {
     right: 30px;
     top: 30px;
     font-weight: bold;
-    background: url(./../images/icon-close.png) !important;
+    background: url(../images/icon-close.png) !important;
     width: 22px;
     height: 22px;
     display: block;

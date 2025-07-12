@@ -425,7 +425,7 @@
   cursor: not-allowed;
 }
 .mwai-chatgpt-theme .mwai-input .mwai-input-text .mwai-file-upload-icon {
-  background: url("./icons/dark-icons.svg");
+  background: url("icons/dark-icons.svg");
   background-size: 500%;
   background-position: 0px -96px;
   width: 32px;

@@ -1,0 +1,187 @@
+@import '_framework_variables.scss'; // SCSS VARIABLES
+@import 'typography_glyphs.scss'; // GLYPHS
+@import '_typography_headlines.scss'; // HEADLINES
+
+.type-examples {
+  h1,h2,h3,h4,h5,h6 {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  h1 {font-size: $h1-font-size;}
+  h2 {font-size: $h2-font-size !important;}
+  h3 {font-size: $h3-font-size;}
+  h4 {font-size: $h4-font-size;}
+  h5 {font-size: $h5-font-size;}
+  h6 {font-size: $h6-font-size;}
+}
+
+ul.list:not(.acf-bl) {
+  display: block;
+  margin: 0;
+  padding: 0;
+  li {
+    display: list-item;
+    list-style-type: disc;
+    margin: 0 0 0.5rem 1rem;
+    padding: 0;
+    &:last-child {
+      margin-bottom: 0;
+    }
+    ul {
+      padding-top: 0.5rem;
+      li {
+        list-style-type: circle;
+      }
+    }
+  }
+}
+
+.admin-glyph-wrap {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 25px;
+  p {
+    margin: 0;
+    display: block;
+    flex: 0 1 calc(25% - 25px);
+    min-width: 100px;
+    max-width: 100%;
+    font-size: 16px;
+    span {
+      padding: 15px;
+      border: 1px solid rgba(#000,0.1);
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      //justify-content: flex-start;
+      align-items: center;
+      line-height: 1;
+      gap: 15px;
+      &:before {
+        font-size: 24px;
+      }
+    }
+  }
+}
+
+.admin-icon {
+  display: block;
+  text-indent: -9999px;
+  white-space: nowrap;
+  width: 120px;
+  height: 50px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 50% 50%;
+}
+
+
+// HERO ICONS
+.icon-layout-hero-1 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/hero_icon_1.png');
+}
+.icon-layout-hero-2 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/hero_icon_2.png');
+}
+.icon-layout-hero-3 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/hero_icon_3.png');
+}
+.icon-layout-hero-4 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/hero_icon_4.png');
+}
+.icon-layout-hero-5 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/hero_icon_5.png');
+}
+.icon-layout-hero-6 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/hero_icon_6.png');
+}
+.icon-layout-hero-7 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/hero_icon_7.png');
+}
+
+
+// CONTENT + IMAGE ICONS
+.icon-layout-content_image-1 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/content_image_icon_1.jpng');
+}
+.icon-layout-content_image-2 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/content_image_icon_2.jpng');
+}
+.icon-layout-content_image-3 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/content_image_icon_3.jpng');
+}
+.icon-layout-content_image-4 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/content_image_icon_4.jpng');
+}
+.icon-layout-content_image-5 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/content_image_icon_5.jpng');
+}
+.icon-layout-content_image-6 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/content_image_icon_5.jpng');
+}
+
+
+// HEADER ICONS
+.icon-layout-header-1 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/icon-layout-header-1.png');
+}
+.icon-layout-header-2 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/icon-layout-header-2.png');
+}
+
+
+// CONTENT ICONS
+.icon-layout-content-1 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/content_icon_1.png');
+}
+.icon-layout-content-2 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/content_icon_2.png');
+}
+.icon-layout-content-3 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/content_icon_3.png');
+}
+.icon-layout-content-4 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/content_icon_4.png');
+}
+.icon-layout-content-5 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/content_icon_5.png');
+}
+
+
+// MENU ICONS
+.icon-layout-menu-1 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/content_menu_icon1.png');
+}
+.icon-layout-menu-2 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/content_menu_icon2.png');
+}
+.icon-layout-menu-3 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/content_menu_icon3.png');
+}
+.icon-layout-menu-4 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/content_menu_icon4.png');
+}
+.icon-layout-menu-5 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/content_menu_icon5.png');
+}
+.icon-layout-menu-6 {
+  background-image: url('/wp-content/themes/blankslate-child/template-parts/admin/images/content_menu_icon6.png');
+}
+
+
+// BUTTON DESIGN ICONS
+.icon-button-layout-1,
+.icon-button-layout-2,
+.icon-button-layout-3,
+.icon-button-layout-4 {
+  background: #369;
+}
+
+.hero-layout-selector {
+  .acf-button-group {
+    label {
+      padding: 5px !important;
+    }
+  }
+}

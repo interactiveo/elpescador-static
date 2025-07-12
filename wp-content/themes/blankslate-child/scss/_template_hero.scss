@@ -1,0 +1,107 @@
+
+$hero_home_height: 35.9375rem;
+
+.page-hero {
+  position: relative;
+  isolation: isolate;
+  padding-top: calc(60px + 3.13rem);
+  background: linear-gradient(180deg, rgba(3,65,69,1) 0%, rgba(14,39,42,1) 100%);
+  
+  .hero-h1,
+  .hero-h2 {
+    text-shadow: 0 .75rem 1rem rgba(0, 0, 0, 0.30), 0 .25rem 6px rgba(0, 0, 0, 0.12);
+    color: white;
+  }
+
+  .location-hero {
+    line-height: 1;
+    font-size: 0.88em;
+    font-family: $heading-font-family;
+    font-weight: 600;
+    > span {
+      display: inline-flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      gap: 0.5em;
+      justify-content: center;
+      align-items: center;
+      margin: 0 auto;
+      background-color: rgba(setcolor(green,dark),0.5);
+      padding: 0.8em 1.1em 0.85em;
+      border-radius: $border-radius;
+      backdrop-filter: blur(3px);
+      i {
+        color: setcolor(teal,base);
+      }
+    }
+  }
+
+  hgroup {
+    max-width: 90ch;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hero-bkg {
+    pointer-events: none;
+    user-select: none;
+    isolation: isolate;
+    :is(img,svg video) {
+      position: absolute;
+      inset: 0;
+    }
+    &:after {
+      content: "";
+      display: block;
+      inset: 0;
+      position: absolute;
+      background: linear-gradient(180deg, rgba(3, 65, 69, 0.60) 27.44%, rgba(3, 65, 69, 0.00) 100%);
+      z-index: 2;
+    }
+    .home-hero-fish {
+        z-index: 3;
+        mix-blend-mode: multiply;
+        top: 10%;
+        right: 10%;
+        object-fit: contain;
+        object-position: 0 0;
+    }
+  }
+
+  &.hero-layout-homepage {
+    .main--row {
+      min-height: clamp($hero_home_height/2, calc(#{$hero_home_height*0.32} + 3.25vw), $hero_home_height);
+    }
+  }
+
+  &.hero-layout-default {
+    .hero-bkg {
+      &:after {
+        background: linear-gradient(180deg, rgba(3, 65, 69, 0.60) 27.44%, rgba(3, 65, 69, 0.00) 272.65%);
+      }
+    }
+  }
+
+  .wave-gap {
+    height: $gap*2;
+    // MD  ------------------------------------------
+    @include breakpoint(md) {
+      height: $gap*4;
+    }//md
+  }
+
+  &.disable-wave-space {
+    .main--row {
+      min-height: 23.4375rem;
+    }
+  }
+
+}
+
+/* body.single {
+  .page-hero {
+    .wave-gap {
+      display: none;
+    }
+  }
+} */
